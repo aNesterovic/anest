@@ -1,16 +1,3 @@
 {
-  "blogs": [
-    {
-      "title": "My first blog",
-      "body": "Why do we use it?\nIt is a long established fact that a render will be...",
-      "author": "mario",
-      "id": 1
-    },
-    {
-      "title": "Opening party!",
-      "body": "Why do we use it?\nIt is a long established fact that a render will be...",
-      "author": "yoshi",
-      "id": 2
-    }
-  ]
+  "blogs": []
 }
