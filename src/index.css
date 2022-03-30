@@ -109,3 +109,9 @@ a {
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found a {
+  font-size: 20px;
+  margin-top: 10px;
+  color: #f1356d;
+}
